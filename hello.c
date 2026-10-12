@@ -7,3 +7,5 @@ int main(){
 }
 //new program
 printf("new branch is used")
+
+printf("this is a new feature from me")
