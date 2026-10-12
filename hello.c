@@ -4,4 +4,6 @@ int main(){
     printf("new changes");
     printf("name is akshith");
     printf("this is a new commit");
+    //pull method
+    printf("hello everyone");
 }
