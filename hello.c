@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(){
-    print("my first github program using c");
-    print("new changes");
-    print("name is akshith");
+    printf("my first github program using c");
+    printf("new changes");
+    printf("name is akshith");
+    printf("this is a new commit");
 }
